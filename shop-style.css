@@ -1,0 +1,31 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.logo{
+	width: 100%;
+	margin-left:400px;
+}
+
+.logo img{
+	height: 350px;
+	width:500px;
+}
+
+.main p{
+	text-align:center;
+	font-size:20px;
+}
+
+.main a button{
+	margin-left: 650px;
+}
+
+.link a{
+	margin-left:620px;
+	display:inline-block;
+	text-decoration:none;
+	background-color:black;
+	color:white;	
+	font-size:20px;
+}
